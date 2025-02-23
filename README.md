@@ -23,11 +23,14 @@ I'm a passionate **Software Developer** with expertise in **TypeScript**, **Java
 
 ## 🤝 **Let's Connect**
 <p align="center">
-<a href="https://salsa-frontend.onrender.com/contact" target="_blank">
+<a href="https://linkedin.com/in/abrah926" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="https://salsa-frontend.onrender.com/contact" target="_blank">
+<a href="mailto:abrahamvidalcastillo2@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+</p>
+
 </a>
 </p>
 
