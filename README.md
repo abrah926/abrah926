@@ -17,7 +17,7 @@ I'm a passionate **Software Developer** with expertise in **TypeScript**, **Java
 ---
 
 ## 📊 **GitHub Activity**
-[![Abraham's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=abrah926&theme=react-dark)](https://github.com/abrah926)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=abrah926&theme=react-dark)
 
 ---
 
